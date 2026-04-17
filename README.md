@@ -5,6 +5,8 @@
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@asesoria_dali.pe)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/people/Dario-Lipa/100005651356188/)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0891b2&width=435&lines=Full+Stack+Dev+%F0%9F%9A%80;Python+%7C+JS+%7C+PHP+%7C+HTML;AI+Dev+con+Antigravity+%26+Codex;Construyendo+desde+Perú+%F0%9F%87%B5%F0%9F%87%AA)](https://git.io/typing-svg)
+
 Soy **Dali PE**, actualmente trabajo como **Desarrollador Full Stack**. Me apasiona crear aplicaciones modernas y aprender nuevas tecnologías para resolver problemas complejos.
 
 ## 👨‍💻 En lo que estoy trabajando..
