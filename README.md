@@ -2,6 +2,7 @@
 
 [![DarioLipa](https://img.shields.io/badge/DarioLipa-0077b5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DarioLipa)
 [![Gmail](https://img.shields.io/badge/darluip@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:darluip@gmail.com)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@asesoria_dali.pe)
 
 I am **Dali PE**, currently working as a **Full Stack Developer**. I love building modern applications and learning new technologies to solve complex problems.
 
