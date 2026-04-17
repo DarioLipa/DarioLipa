@@ -4,6 +4,7 @@
 [![Gmail](https://img.shields.io/badge/darluip@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:darluip@gmail.com)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@asesoria_dali.pe)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/people/Dario-Lipa/100005651356188/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/51963278212?text=%C2%A1Hola!%20%F0%9F%91%8B%20Vengo%20de%20tu%20GitHub%20y%20me%20gustar%C3%ADa%20contactar%20contigo.%20%C2%A1Un%20gusto%20conocerte!%20%E2%9C%A8)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0891b2&width=435&lines=Full+Stack+Dev+%F0%9F%9A%80;Python+%7C+JS+%7C+PHP+%7C+HTML;AI+Dev+con+Antigravity+%26+Codex;Construyendo+desde+Perú+%F0%9F%87%B5%F0%9F%87%AA)](https://git.io/typing-svg)
 
