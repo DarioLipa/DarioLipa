@@ -1,12 +1,13 @@
-# Hi there
+# ¡Hola! 👋
 
 [![DarioLipa](https://img.shields.io/badge/DarioLipa-0077b5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DarioLipa)
 [![Gmail](https://img.shields.io/badge/darluip@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:darluip@gmail.com)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@asesoria_dali.pe)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/people/Dario-Lipa/100005651356188/)
 
-I am **Dali PE**, currently working as a **Full Stack Developer**. I love building modern applications and learning new technologies to solve complex problems.
+Soy **Dali PE**, actualmente trabajo como **Desarrollador Full Stack**. Me apasiona crear aplicaciones modernas y aprender nuevas tecnologías para resolver problemas complejos.
 
-## 👨‍💻 What I am doing..
+## 👨‍💻 En lo que estoy trabajando..
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
