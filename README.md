@@ -1,16 +1,18 @@
 # ¡Hola! 👋
 
-[![DarioLipa](https://img.shields.io/badge/DarioLipa-0077b5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DarioLipa)
-[![Gmail](https://img.shields.io/badge/darluip@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:darluip@gmail.com)
+[![DarioLipa](https://img.shields.io/badge/DarioLipa-0077B5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DarioLipa)
+[![Gmail](https://img.shields.io/badge/darluip%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:darluip@gmail.com)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@asesoria_dali.pe)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/people/Dario-Lipa/100005651356188/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/51963278212?text=%C2%A1Hola!%20%F0%9F%91%8B%20Vengo%20de%20tu%20GitHub%20y%20me%20gustar%C3%ADa%20contactar%20contigo.%20%C2%A1Un%20gusto%20conocerte!%20%E2%9C%A8)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0891b2&width=435&lines=Full+Stack+Dev+%F0%9F%9A%80;Python+%7C+JS+%7C+PHP+%7C+HTML;AI+Dev+con+Antigravity+%26+Codex;Construyendo+desde+Perú+%F0%9F%87%B5%F0%9F%87%AA)](https://github.com/DenverCoder1/readme-typing-svg)
+---
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0891B2&width=600&lines=Full+Stack+Dev+%F0%9F%9A%80;Python+%7C+JavaScript+%7C+PHP+%7C+HTML+%7C+CSS;AI+Dev+con+Antigravity+%26+Codex;Construyendo+desde+Per%C3%BA+%F0%9F%87%B5%F0%9F%87%AA)](https://github.com/DenverCoder1/readme-typing-svg)
 
 Soy **Dali PE**, actualmente trabajo como **Desarrollador Full Stack**. Me apasiona crear aplicaciones modernas y aprender nuevas tecnologías para resolver problemas complejos.
 
-## 👨‍💻 En lo que estoy trabajando..
+## 👨‍💻 En lo que estoy trabajando
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -22,15 +24,16 @@ Soy **Dali PE**, actualmente trabajo como **Desarrollador Full Stack**. Me apasi
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
 
-<br/>
+<br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DarioLipa&show_icons=true&title_color=0891b2&icon_color=0891b2&text_color=334155&bg_color=ffffff" alt="DarioLipa's github stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarioLipa&layout=compact&title_color=0891b2&icon_color=0891b2&text_color=334155&bg_color=ffffff" alt="Most Used Languages" width="41%" />
-</div>
+## 📊 Estadísticas de GitHub
 
-<br/>
+| GitHub Stats | Lenguajes más usados |
+|---|---|
+| ![DarioLipa GitHub Stats](https://github-readme-stats.vercel.app/api?username=DarioLipa&show_icons=true&theme=default&title_color=0891B2&icon_color=0891B2&text_color=334155&bg_color=ffffff&hide_border=true&cache_seconds=1800) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DarioLipa&layout=compact&theme=default&title_color=0891B2&text_color=334155&bg_color=ffffff&hide_border=true&cache_seconds=1800) |
+
+<br>
 
 [![Visitors](https://komarev.com/ghpvc/?username=DarioLipa&color=0891b2&style=flat)](https://github.com/DarioLipa/DarioLipa)
