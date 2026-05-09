@@ -14,26 +14,3 @@
 
 <br>
 
-## 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DarioLipa&show_icons=true&title_color=0891B2&icon_color=0891B2&text_color=334155&bg_color=ffffff&hide_border=true" 
-    alt="Estadísticas de GitHub de DarioLipa" 
-    width="48%" 
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DarioLipa&layout=compact&title_color=0891B2&text_color=334155&bg_color=ffffff&hide_border=true" 
-    alt="Lenguajes más usados de DarioLipa" 
-    width="48%" 
-  />
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DarioLipa&color=0891b2&style=flat" alt="Profile views" />
-</p>
